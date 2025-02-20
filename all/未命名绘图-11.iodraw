@@ -1960,6 +1960,9 @@
         <mxCell id="qLBA8ZuZw0cnxZ0bQ38X-2" value="进入1#后。在折返位置后10米左右位置" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="657" y="-1720" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="qLBA8ZuZw0cnxZ0bQ38X-3" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="695" y="-1805" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
