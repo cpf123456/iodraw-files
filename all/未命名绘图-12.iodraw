@@ -1969,6 +1969,9 @@
         <mxCell id="Q9ynfGvnqC8-TLKFv7Z8-5" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
           <mxGeometry x="2212" y="-1040" width="20" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="Q9ynfGvnqC8-TLKFv7Z8-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1526" y="-1080" width="44" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
