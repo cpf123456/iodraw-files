@@ -1975,6 +1975,9 @@
         <mxCell id="Q9ynfGvnqC8-TLKFv7Z8-7" value="漏油孔位置" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1970" y="-920" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Q9ynfGvnqC8-TLKFv7Z8-8" value="漏油孔位置" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2240" y="-1045" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
