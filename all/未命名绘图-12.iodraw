@@ -1970,7 +1970,10 @@
           <mxGeometry x="2212" y="-1040" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Q9ynfGvnqC8-TLKFv7Z8-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1526" y="-1080" width="44" height="40" as="geometry" />
+          <mxGeometry x="1654" y="-1060" width="44" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9ynfGvnqC8-TLKFv7Z8-7" value="漏油孔位置" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1970" y="-920" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
