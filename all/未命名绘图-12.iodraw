@@ -1964,10 +1964,10 @@
           <mxGeometry x="1710" y="-1350" width="530" height="520" as="geometry" />
         </mxCell>
         <mxCell id="Q9ynfGvnqC8-TLKFv7Z8-4" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
-          <mxGeometry x="1990" y="-920" width="20" height="20" as="geometry" />
+          <mxGeometry x="1980" y="-1360" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Q9ynfGvnqC8-TLKFv7Z8-5" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
-          <mxGeometry x="1990" y="-920" width="20" height="20" as="geometry" />
+          <mxGeometry x="1965" y="-840" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
