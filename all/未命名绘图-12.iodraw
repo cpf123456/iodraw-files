@@ -1963,6 +1963,9 @@
         <mxCell id="Q9ynfGvnqC8-TLKFv7Z8-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.donut;dx=25;" vertex="1" parent="1">
           <mxGeometry x="1748" y="-1210" width="482" height="470" as="geometry" />
         </mxCell>
+        <mxCell id="Q9ynfGvnqC8-TLKFv7Z8-3" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1940" y="-1010" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
