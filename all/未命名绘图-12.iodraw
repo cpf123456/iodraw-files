@@ -1982,7 +1982,7 @@
           <mxGeometry x="1970" y="-920" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q9ynfGvnqC8-TLKFv7Z8-10" value="需要设计的漏油孔下方电缆槽" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1548" y="-1060" width="60" height="30" as="geometry" />
+          <mxGeometry x="1548" y="-1060" width="92" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
