@@ -1984,8 +1984,11 @@
         <mxCell id="Q9ynfGvnqC8-TLKFv7Z8-10" value="需要设计的漏油孔下方电缆槽" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1548" y="-1060" width="92" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="e9QtkceTfQyWlVLm_J-e-4" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
+        <mxCell id="e9QtkceTfQyWlVLm_J-e-4" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillStyle=hatch;" vertex="1" parent="1">
           <mxGeometry x="2472.25" y="-2310" width="2097.75" height="1160" as="geometry" />
+        </mxCell>
+        <mxCell id="e9QtkceTfQyWlVLm_J-e-5" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3200" y="-1990" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
