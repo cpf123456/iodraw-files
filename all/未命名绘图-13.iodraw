@@ -1999,8 +1999,8 @@
         <mxCell id="e9QtkceTfQyWlVLm_J-e-10" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;净化厂机柜&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2660" y="-1475" width="170" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="e9QtkceTfQyWlVLm_J-e-12" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;设备&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2462.25" y="-2200" width="120" height="60" as="geometry" />
+        <mxCell id="e9QtkceTfQyWlVLm_J-e-12" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;设备/工控机&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2472.25" y="-2140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
