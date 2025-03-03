@@ -2032,8 +2032,8 @@
             <mxPoint x="3430" y="-1770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t9Yo4WoVkl2xRZLX0_CJ-3" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3380" y="-1760" width="60" height="30" as="geometry" />
+        <mxCell id="t9Yo4WoVkl2xRZLX0_CJ-3" value="173.12.3.99" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2510" y="-1783" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
