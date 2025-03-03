@@ -2035,6 +2035,9 @@
         <mxCell id="t9Yo4WoVkl2xRZLX0_CJ-3" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;173.12.3.99&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2510" y="-1783" width="100" height="33" as="geometry" />
         </mxCell>
+        <mxCell id="t9Yo4WoVkl2xRZLX0_CJ-4" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;173.12.34.4.&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3605" y="-1795" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
