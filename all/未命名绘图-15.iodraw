@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="e9QtkceTfQyWlVLm_J-e-4" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillStyle=hatch;" parent="1" vertex="1">
+          <mxGeometry x="2340" y="-2290" width="2090" height="950" as="geometry" />
+        </mxCell>
         <mxCell id="e9QtkceTfQyWlVLm_J-e-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2420" y="-2261" width="640" height="840" as="geometry" />
         </mxCell>
@@ -1986,9 +1989,6 @@
         </mxCell>
         <mxCell id="Q9ynfGvnqC8-TLKFv7Z8-10" value="需要设计的漏油孔下方电缆槽" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1548" y="-1060" width="92" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="e9QtkceTfQyWlVLm_J-e-4" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillStyle=hatch;" parent="1" vertex="1">
-          <mxGeometry x="2340" y="-2290" width="2090" height="950" as="geometry" />
         </mxCell>
         <mxCell id="e9QtkceTfQyWlVLm_J-e-5" value="&lt;span style=&quot;font-size: 60px;&quot;&gt;苍溪&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="4210" y="-1436" width="200" height="30" as="geometry" />
