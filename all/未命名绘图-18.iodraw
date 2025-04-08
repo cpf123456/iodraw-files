@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="5Op-a37kxjVPPF0v-QhZ-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-93" y="-2433" width="143" height="83" as="geometry" />
+        </mxCell>
         <mxCell id="5Op-a37kxjVPPF0v-QhZ-72" value="接续盒" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-83" y="-2423" width="83" height="50" as="geometry" />
         </mxCell>
@@ -2219,9 +2222,6 @@
         </mxCell>
         <mxCell id="5Op-a37kxjVPPF0v-QhZ-71" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=#19FF21;" vertex="1" parent="1">
           <mxGeometry x="-84" y="-2620" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="5Op-a37kxjVPPF0v-QhZ-8" value="&lt;font style=&quot;font-size: 14px&quot;&gt;4#机区&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-93" y="-2433" width="143" height="83" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
