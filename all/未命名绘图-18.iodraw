@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5Op-a37kxjVPPF0v-QhZ-9" value="&lt;font style=&quot;font-size: 14px&quot;&gt;3#机区&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5Op-a37kxjVPPF0v-QhZ-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-319.5" y="-2460" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="5Op-a37kxjVPPF0v-QhZ-52" value="接续盒" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
@@ -2231,6 +2231,9 @@
         </mxCell>
         <mxCell id="5Op-a37kxjVPPF0v-QhZ-51" value="1484" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-531.75" y="-2630" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5Op-a37kxjVPPF0v-QhZ-53" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="-2440" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
