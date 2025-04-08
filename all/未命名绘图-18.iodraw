@@ -2172,7 +2172,7 @@
         <mxCell id="5Op-a37kxjVPPF0v-QhZ-31" value="&lt;span style=&quot;font-size: 11px&quot;&gt;一期供氨母管2&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="-2670" width="85" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="5Op-a37kxjVPPF0v-QhZ-34" value="" style="endArrow=classic;html=1;entryX=0.338;entryY=1.06;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.806;exitY=-0.017;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
+        <mxCell id="5Op-a37kxjVPPF0v-QhZ-34" value="" style="endArrow=classic;html=1;entryX=0.338;entryY=1.06;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.806;exitY=-0.017;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#f8cecc;strokeColor=#0000FF;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-64.0300000000002" y="-2441.02" as="sourcePoint" />
             <mxPoint x="-63.059999999999945" y="-2487" as="targetPoint" />
