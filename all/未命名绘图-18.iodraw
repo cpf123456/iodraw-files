@@ -2104,7 +2104,7 @@
             <mxPoint x="-486" y="-2580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5Op-a37kxjVPPF0v-QhZ-16" value="" style="endArrow=classic;html=1;fillColor=#f8cecc;strokeColor=#0000FF;endFill=1;" edge="1" parent="1" source="5Op-a37kxjVPPF0v-QhZ-9">
+        <mxCell id="5Op-a37kxjVPPF0v-QhZ-16" value="" style="endArrow=classic;html=1;fillColor=#f8cecc;strokeColor=#0000FF;endFill=1;exitX=0.437;exitY=0.035;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="5Op-a37kxjVPPF0v-QhZ-52">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-256" y="-2521" as="sourcePoint" />
             <mxPoint x="-256" y="-2580" as="targetPoint" />
@@ -2227,7 +2227,7 @@
           <mxGeometry x="-541.75" y="-2550" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5Op-a37kxjVPPF0v-QhZ-52" value="接续盒" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="-312.75" y="-2433" width="130" height="50" as="geometry" />
+          <mxGeometry x="-309.5" y="-2435" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5Op-a37kxjVPPF0v-QhZ-51" value="1484" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-531.75" y="-2630" width="40" height="20" as="geometry" />
