@@ -2104,7 +2104,7 @@
             <mxPoint x="-486" y="-2580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5Op-a37kxjVPPF0v-QhZ-16" value="" style="endArrow=classic;html=1;fillColor=#f8cecc;strokeColor=#0000FF;endFill=1;exitX=0.467;exitY=0.03;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="5Op-a37kxjVPPF0v-QhZ-9">
+        <mxCell id="5Op-a37kxjVPPF0v-QhZ-16" value="" style="endArrow=classic;html=1;fillColor=#f8cecc;strokeColor=#0000FF;endFill=1;" edge="1" parent="1" source="5Op-a37kxjVPPF0v-QhZ-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-256" y="-2521" as="sourcePoint" />
             <mxPoint x="-256" y="-2580" as="targetPoint" />
@@ -2228,6 +2228,9 @@
         </mxCell>
         <mxCell id="5Op-a37kxjVPPF0v-QhZ-51" value="1484" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-531.75" y="-2630" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5Op-a37kxjVPPF0v-QhZ-52" value="接续盒" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-105" y="-2530" width="130" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
